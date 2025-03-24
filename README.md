@@ -4,6 +4,8 @@
 # mypackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/indiasutherland/mypackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/indiasutherland/mypackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage is to print a personalised message from me!
@@ -29,18 +31,16 @@ hello()
 #>  ------------------------- 
 #> < Hello world from India! >
 #>  ------------------------- 
-#>               \
-#>                \
+#>   \
+#>    \
 #> 
-#>         /\_/\         _
-#>        /``   \       / )
-#>        |n n   |__   ( (
-#>       =(Y =.‛`   `\  \ \
-#>       {`"`        \  ) )
-#>       {       /    |/ /
-#>        \\   ,(     / /
-#>         ) ) /-‛\  ,_.‛
-#>   jgs  (,(,/ ((,,/
+#>      /\-/\
+#>     /a a  \                                 _
+#>    =\ Y  =/-~~~~~~-,_______________________/ )
+#>      ‛^--‛          ________________________/
+#>        \           /
+#>        ||  |---‛\  \
+#>   jgs  (_(__|   ((__|
 #> 
 ```
 
@@ -53,12 +53,16 @@ hello(name = "Lucy Elen")
 #>  ----------------------------- 
 #> < Hello Lucy Elen from India! >
 #>  ----------------------------- 
-#>       \
-#>        \
+#>                   \
+#>                    \
 #> 
-#>         ^__^ 
-#>         ($$)\ ________ 
-#>         (__)\         )\ /\ 
-#>              ||------w|
-#>              ||      ||
+#>            .-._   _ _ _ _ _ _ _ _
+#> .-''-.__.-'00  '-' ' ' ' ' ' ' ' '-.
+#> '.___ '    .   .--_'-' '-' '-' _'-' '._
+#> V: V 'vv-'   '_   '.       .'  _..' '.'.
+#>   '=.____.=_.--'   :_.__.__:_   '.   : :
+#>            (((____.-'        '-.  /   : :
+#> snd                          (((-'\ .' /
+#>                            _____..'  .'
+#>                           '-._____.-'
 ```
